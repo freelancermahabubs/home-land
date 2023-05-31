@@ -130,7 +130,7 @@ const SingUp = () => {
         <div className="flex flex-col max-w-md p-6 rounded-lg sm:p-10 bg-gray-100 text-gray-900">
           <div className="mb-8 text-center">
             <h1 className="my-3 text-4xl font-bold">Sign Up</h1>
-            <p className="text-sm text-gray-400">Welcome to AirCNC</p>
+            <p className="text-sm text-gray-400">Welcome to Home Land</p>
           </div>
           <form
             onSubmit={handleSingUp}
