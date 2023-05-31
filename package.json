@@ -12,12 +12,16 @@
   "dependencies": {
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.17",
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "firebase": "^9.22.1",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
     "react-icons": "^4.8.0",
     "react-router-dom": "^6.10.0",
+    "react-spinners": "^0.13.8",
     "sort-by": "^1.2.0"
   },
   "devDependencies": {
